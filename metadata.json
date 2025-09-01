@@ -1,0 +1,7 @@
+{
+  "name": "Bias Audit Report",
+  "description": "An interactive tool to conduct a bias audit on sample machine learning datasets. Analyze fairness metrics, explore mitigation strategies, and generate a comprehensive ethical report using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
